@@ -61,5 +61,4 @@ const animateText = () => {
 			childComponents[i].classList.add("show");
 		}
 	}
-	
 };
